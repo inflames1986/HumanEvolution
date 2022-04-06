@@ -21,3 +21,5 @@ data class HumanParameters(
 
 fun getDefaultHuman() = Human("Human1", 1, "male")
 fun getDefaultHumanParameters() = HumanParameters(30, 10)
+
+

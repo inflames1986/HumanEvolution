@@ -1,5 +1,5 @@
 package com.inflames1986.humanevolution.entities
 
-interface Walkable {
+fun interface Walkable {
     fun walk(distance: Int)
 }
